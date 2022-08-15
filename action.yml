@@ -17,7 +17,7 @@ inputs:
   source_dir:
     description: "The name of the directory in your Github you want to replace the contents of the fileshare with."
     required: true
-  desination_path:
+  destination_path:
     description: "The destination path in the fileshare to upload to."
     required: true
   cloud:
